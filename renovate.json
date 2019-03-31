@@ -2,6 +2,6 @@
   "extends": [
     "config:base"
   ],
-  "pinVersoins": false,
+  "pinVersions": false,
   "autodetectPinVersions": false
 }
