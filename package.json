@@ -21,7 +21,7 @@
     "@types/request": "^2.48.1",
     "@types/request-promise-native": "^1.0.15",
     "@types/sinon": "^7.0.4",
-    "@types/ssh2-sftp-client": "^2.4.1",
+    "@types/ssh2-sftp-client": "^5.0.0",
     "aws-sdk": "^2.384.0",
     "aws4": "^1.8.0",
     "basic-ftp": "^3.3.1",
